@@ -1,0 +1,16 @@
+@media (max-width: 996px) {
+	.header{
+  	.tab:after{
+		left: 95px;
+	}
+}
+
+@media (max-width: 808px){
+	.tab:after{
+		left: 70px;
+	}
+  
+  	.banner__title{
+		padding-top: 75px;
+		text-align: center;
+	}
